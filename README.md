@@ -14,3 +14,6 @@
 * github desktop : 'Add' 사용하던 기존 로컬 저장소를 github에 올릴때 
 * github desktop : 수정 후 Sync 
 * command line : git push origin master 
+
+
+	
