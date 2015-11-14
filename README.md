@@ -2,7 +2,10 @@
 
 * git init
 
+
 ----------
+
+* git init 하고나면 안해도됩 
 
 * git status
 * git add .
