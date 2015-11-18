@@ -8,7 +8,9 @@ void setup()
 
 void loop()
 {
-  if(digitalRead(2)) digitalWrite(13, LOW); //LED 끄기
-  else digitalWrite(13, HIGH); //LED켜기 
+  if(digitalRead(2)) 
+    digitalWrite(13, LOW); //LED 끄기
+  else 
+    digitalWrite(13, HIGH); //LED켜기 
 
 }
